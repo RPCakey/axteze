@@ -1,15 +1,4 @@
 # axteze
 axteze website
 
-dsf
-sd
-f
-sdf
-sd
-f
-sdf
-
-sdf
-sd
-f
-sdf
+This is the readme file for the new Axteze website which is under development
